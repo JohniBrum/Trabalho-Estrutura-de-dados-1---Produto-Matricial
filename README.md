@@ -2,7 +2,7 @@
 # Produto de Matrizes em C
 
 1) Sobre o projeto
-Este projeto implementa, em linguagem C, o produto de duas matrizes A(m×n) e B(n×r), utilizando recursão, ponteiros e alocação dinâmica de memória.
+- Este projeto implementa, em linguagem C, o produto de duas matrizes A(m×n) e B(n×r), utilizando recursão, ponteiros e alocação dinâmica de memória.
 
 2) Funcionalidades
 - Definição das dimensões das matrizes em tempo de execução
